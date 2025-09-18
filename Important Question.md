@@ -4,6 +4,9 @@
 ## 2.Differentiate Business Intelligence (BI) and Data Science.
 ### Answer:Business Intelligence focuses on analyzing historical data to generate reports, dashboards, and performance metrics for decision-making. Data Science, on the other hand, goes beyond descriptive analysis by using predictive and prescriptive models, machine learning, and advanced analytics to forecast future outcomes. BI answers “what happened,” while Data Science explores “what will happen” or “why it happens.”
 
+### 3.What are the characteristics of quality data?
+ ### Answer;Quality data should be accurate, complete, consistent, timely, and relevant. It must be free from duplication or errors, standardized in format, and up to date for current analysis. High-quality data ensures reliability, reduces bias, improves decision-making, and supports meaningful insights in Data Science projects. Poor data quality often leads to incorrect predictions and wasted resources.
+
 
 
 
