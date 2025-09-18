@@ -45,4 +45,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 12. Describe Exploratory Data Analysis (EDA) and its role in Data Science.
 ### Answer: Exploratory Data Analysis (EDA) involves summarizing data using visualization and statistics to understand its patterns, relationships, and anomalies. It helps detect missing values, correlations, and trends before building models. EDA plays a critical role in feature selection, hypothesis testing, and ensuring data quality. By providing insights, it guides analysts in choosing the right modeling techniques.
 
+### 13. What is Big Data? Discuss the main characteristics of Big Data.
+### Answer:Big Data refers to datasets that are too large or complex for traditional systems. Its main characteristics are: Volume (huge size), Velocity (fast generation), Variety (different formats like text, video), Veracity (accuracy and trustworthiness), and Value (usefulness). These “5Vs” define Big Data and highlight the challenges and opportunities in storing, processing, and analyzing such massive datasets.
+
 
