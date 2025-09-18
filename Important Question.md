@@ -25,13 +25,13 @@
 4.Web scraping from websites.
 
 5.Surveys and feedback forms.
-These sources provide both structured and unstructured data that can be processed to generate meaningful insights for decision-making and forecasting
+These sources provide both structured and unstructured data that can be processed to generate meaningful insights for decision-making and forecasting.
 
 ### 7. Compare Big Data with Data Science.
 ### Answer:Big Data refers to massive volumes of structured, semi-structured, and unstructured data that traditional systems cannot handle. It focuses on storage, processing, and management. Data Science uses tools, statistics, and machine learning to extract insights from such data. While Big Data provides the raw material, Data Science turns it into knowledge, predictions, and actionable strategies.
 
 ### 8. What is Unstructured Data? Explain with example.
-### Answer:Unstructured data is information that does not follow a predefined format or structure. It includes text, images, audio, and videos, making it difficult to store in traditional databases. For example, customer reviews on e-commerce sites, tweets on Twitter, or medical imaging like X-rays. Data Science techniques like NLP and computer vision are used to analyze such data
+### Answer:Unstructured data is information that does not follow a predefined format or structure. It includes text, images, audio, and videos, making it difficult to store in traditional databases. For example, customer reviews on e-commerce sites, tweets on Twitter, or medical imaging like X-rays. Data Science techniques like NLP and computer vision are used to analyze such data.
 
 ### 9. List out the advantages of web scraping.
 ### Answer: Web scraping helps extract useful data from websites automatically. Its advantages include gathering real-time market trends, competitor analysis, lead generation, product pricing comparison, and research data collection. It saves time, reduces manual effort, and ensures large-scale data availability. Businesses use it to monitor markets, while researchers use it to collect datasets for analysis and experiments.
@@ -47,5 +47,9 @@ These sources provide both structured and unstructured data that can be processe
 
 ### 13. What is Big Data? Discuss the main characteristics of Big Data.
 ### Answer:Big Data refers to datasets that are too large or complex for traditional systems. Its main characteristics are: Volume (huge size), Velocity (fast generation), Variety (different formats like text, video), Veracity (accuracy and trustworthiness), and Value (usefulness). These “5Vs” define Big Data and highlight the challenges and opportunities in storing, processing, and analyzing such massive datasets.
+
+### 14. Illustrate the use of Data Science with an example.
+### Answer:In e-commerce, Data Science is used for recommendation systems. By analyzing customer purchase history, browsing behavior, and product ratings, algorithms suggest personalized products. For instance, Amazon uses collaborative filtering and machine learning to recommend items customers are likely to buy. This improves sales, enhances user satisfaction, and creates a more engaging shopping experience.
+
 
 
