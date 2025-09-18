@@ -54,5 +54,8 @@ These sources provide both structured and unstructured data that can be processe
 ### 15.Show the ways in which decision-making and predictions are made in Data Science.
 ### Answer:Decision-making in Data Science involves collecting and analyzing data, applying statistical models, and using machine learning for predictions. Predictive analytics forecasts future trends, while prescriptive analytics suggests optimal actions. Visualization tools help stakeholders interpret insights. For example, predicting customer churn, forecasting demand, or optimizing supply chains enables organizations to make data-driven and confident business decisions.
 
+### 16.Differentiate Data Mining and Data Science.
+### Answer.Data Mining focuses on discovering hidden patterns, associations, and relationships in large datasets using algorithms. It is a subset of Data Science. Data Science, however, is broader—it includes data collection, cleaning, analysis, visualization, and machine learning to generate insights and predictions. While Data Mining extracts knowledge, Data Science applies it for solving real-world problems effectively.
+
 
 
