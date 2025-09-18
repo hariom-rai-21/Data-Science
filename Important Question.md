@@ -39,4 +39,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 10. Can Data Science Predict the Stock Market? Examine.
 ### Answer:Data Science can analyze stock market data using machine learning, sentiment analysis, and time-series forecasting. It identifies trends and makes short-term predictions based on patterns. However, since markets are influenced by unpredictable factors like politics or global crises, predictions may not always be accurate. Data Science helps in risk assessment and decision support but not guaranteed forecasts.
 
+### 11. Distinguish between noise and outlier in Data Science.
+### Answer:Noise refers to random errors or irrelevant data that obscure true patterns, like incorrect sensor readings. Outliers are data points that deviate significantly from the rest, such as a sudden sales spike during a festival. While noise is often removed, outliers may hold valuable information. Differentiating them is essential for accurate modeling and reliable predictions in Data Science.
+
 
