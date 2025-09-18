@@ -13,19 +13,22 @@
 ### 5.List out the areas in which Data Science can be applied.
 ### Answer:Data Science is widely applied in healthcare (disease prediction, drug discovery), finance (fraud detection, risk assessment), e-commerce (recommendation systems, customer insights), social media (sentiment analysis), manufacturing (predictive maintenance), education (personalized learning), sports (performance analytics), and government (policy-making, smart cities). Its broad applicability makes it valuable across industries where data-driven decisions improve efficiency and innovation.
 
-### 6.6. Write any five sources of data.
+### 6. Write any five sources of data.
 ### Answer :Five major sources of data include:
 
-Transactional data from sales and purchases.
+1.Transactional data from sales and purchases.
 
-Social media platforms (posts, comments, likes).
+2.Social media platforms (posts, comments, likes).
 
-Sensors and IoT devices generating real-time streams.
+3.Sensors and IoT devices generating real-time streams.
 
-Web scraping from websites.
+4.Web scraping from websites.
 
-Surveys and feedback forms.
+5.Surveys and feedback forms.
 These sources provide both structured and unstructured data that can be processed to generate meaningful insights for decision-making and forecasting
+
+### 7. Compare Big Data with Data Science.
+### Answer:Big Data refers to massive volumes of structured, semi-structured, and unstructured data that traditional systems cannot handle. It focuses on storage, processing, and management. Data Science uses tools, statistics, and machine learning to extract insights from such data. While Big Data provides the raw material, Data Science turns it into knowledge, predictions, and actionable strategies.
 
 
 
