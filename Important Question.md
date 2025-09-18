@@ -51,5 +51,8 @@ These sources provide both structured and unstructured data that can be processe
 ### 14. Illustrate the use of Data Science with an example.
 ### Answer:In e-commerce, Data Science is used for recommendation systems. By analyzing customer purchase history, browsing behavior, and product ratings, algorithms suggest personalized products. For instance, Amazon uses collaborative filtering and machine learning to recommend items customers are likely to buy. This improves sales, enhances user satisfaction, and creates a more engaging shopping experience.
 
+### 15.Show the ways in which decision-making and predictions are made in Data Science.
+### Answer:Decision-making in Data Science involves collecting and analyzing data, applying statistical models, and using machine learning for predictions. Predictive analytics forecasts future trends, while prescriptive analytics suggests optimal actions. Visualization tools help stakeholders interpret insights. For example, predicting customer churn, forecasting demand, or optimizing supply chains enables organizations to make data-driven and confident business decisions.
+
 
 
