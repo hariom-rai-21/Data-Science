@@ -36,4 +36,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 9. List out the advantages of web scraping.
 ### Answer: Web scraping helps extract useful data from websites automatically. Its advantages include gathering real-time market trends, competitor analysis, lead generation, product pricing comparison, and research data collection. It saves time, reduces manual effort, and ensures large-scale data availability. Businesses use it to monitor markets, while researchers use it to collect datasets for analysis and experiments.
 
+### 10. Can Data Science Predict the Stock Market? Examine.
+### Answer:Data Science can analyze stock market data using machine learning, sentiment analysis, and time-series forecasting. It identifies trends and makes short-term predictions based on patterns. However, since markets are influenced by unpredictable factors like politics or global crises, predictions may not always be accurate. Data Science helps in risk assessment and decision support but not guaranteed forecasts.
+
 
