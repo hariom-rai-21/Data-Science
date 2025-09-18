@@ -69,4 +69,111 @@ These sources provide both structured and unstructured data that can be processe
 ### 20. Explain streaming data with the help of example.
 ### Answer:Streaming data refers to continuous data flow generated in real-time. Examples include live stock market feeds, sensor readings from IoT devices, or social media updates. It is processed using frameworks like Apache Kafka or Spark Streaming. Streaming data allows organizations to make immediate decisions, such as fraud detection in banking or traffic monitoring in smart cities
 
+### 21. Explain the role of Machine Learning in Data Science
+- Machine Learning (ML) is a core component of Data Science.  
+- It enables systems to learn patterns from data automatically.  
+- Used for predictions, classifications, and clustering.  
+- Enhances automation in decision-making.  
+- Applications: spam detection, fraud analysis, recommendation systems.  
+- ML transforms raw data into actionable insights.  
 
+---
+
+### 22. Differentiate between Structured, Semi-Structured, and Unstructured Data
+- **Structured Data:**  
+  - Stored in rows/columns (databases).  
+  - Example: student records, bank transactions.  
+- **Semi-Structured Data:**  
+  - Has some organization but not tabular.  
+  - Example: XML, JSON files.  
+- **Unstructured Data:**  
+  - No fixed schema or format.  
+  - Example: images, videos, social media text.  
+
+---
+
+### 23. Explain the importance of Data Visualization
+- Converts raw data into graphical representations.  
+- Helps identify trends and patterns quickly.  
+- Makes insights understandable to non-technical users.  
+- Supports better decision-making with clarity.  
+- Tools: Tableau, Power BI, Matplotlib, Seaborn.  
+- Visual storytelling improves communication of insights.  
+
+---
+
+### 24. What are the challenges in Big Data Analytics?
+- Volume: managing huge datasets efficiently.  
+- Velocity: processing high-speed streaming data.  
+- Variety: handling multiple formats (text, video, images).  
+- Veracity: ensuring data accuracy and trust.  
+- Cost of infrastructure and storage.  
+- Privacy, security, and ethical issues.  
+
+---
+
+### 25. Explain the difference between Descriptive, Predictive, and Prescriptive Analytics
+- **Descriptive Analytics:**  
+  - Analyzes historical data.  
+  - Answers “What happened?”  
+- **Predictive Analytics:**  
+  - Uses ML/statistics to forecast.  
+  - Answers “What will happen?”  
+- **Prescriptive Analytics:**  
+  - Suggests optimal actions.  
+  - Answers “What should we do?”  
+- Together, they form the analytics cycle in Data Science.  
+
+---
+
+### 26. What are Key Performance Indicators (KPIs) in Data Science projects?
+- KPIs measure the success of a project.  
+- Accuracy of predictions (ML model performance).  
+- Data quality and completeness.  
+- Business value added through insights.  
+- ROI (Return on Investment).  
+- User satisfaction and adoption of solutions.  
+- Helps track progress and outcomes effectively.  
+
+---
+
+### 27. Explain Natural Language Processing (NLP) and its uses
+- NLP is a branch of AI that processes human language.  
+- Converts text/speech into machine-readable format.  
+- Applications:  
+  - Chatbots and virtual assistants.  
+  - Sentiment analysis in social media.  
+  - Spam filtering in emails.  
+  - Machine translation (Google Translate).  
+- Uses ML models like transformers for accuracy.  
+
+---
+
+### 28. Discuss the role of Cloud Computing in Data Science
+- Provides scalable storage for large datasets.  
+- Offers on-demand computational power.  
+- Enables collaboration across geographies.  
+- Cloud platforms: AWS, Google Cloud, Microsoft Azure.  
+- Supports advanced analytics and ML pipelines.  
+- Cost-effective, flexible, and accessible infrastructure.  
+
+---
+
+### 29. What is Overfitting and Underfitting in Machine Learning?
+- **Overfitting:**  
+  - Model learns noise along with patterns.  
+  - High training accuracy, poor test accuracy.  
+- **Underfitting:**  
+  - Model too simple to capture trends.  
+  - Poor performance on training and test data.  
+- Goal: achieve balance with proper model complexity, regularization, and validation.  
+
+---
+
+### 30. Explain the ethical issues in Data Science
+- Data privacy and protection of personal information.  
+- Bias in data leading to unfair outcomes.  
+- Transparency in algorithms and predictions.  
+- Consent and responsible data collection.  
+- Misuse of AI in surveillance or manipulation.  
+- Importance of ethical frameworks for trust and fairness.  
