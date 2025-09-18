@@ -63,4 +63,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 18.What is meant by transforming data in Data Science?
 ### Answer:Transforming data means converting raw data into a more suitable format for analysis. It includes normalization, scaling, encoding categorical variables, and aggregating information. Transformation improves consistency, reduces complexity, and prepares data for machine learning algorithms. For example, converting text into numerical vectors in Natural Language Processing is a form of data transformation essential for analysis.
 
+### 20. Explain streaming data with the help of example.
+### Answer:Streaming data refers to continuous data flow generated in real-time. Examples include live stock market feeds, sensor readings from IoT devices, or social media updates. It is processed using frameworks like Apache Kafka or Spark Streaming. Streaming data allows organizations to make immediate decisions, such as fraud detection in banking or traffic monitoring in smart cities
+
 
