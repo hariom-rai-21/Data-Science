@@ -30,5 +30,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 7. Compare Big Data with Data Science.
 ### Answer:Big Data refers to massive volumes of structured, semi-structured, and unstructured data that traditional systems cannot handle. It focuses on storage, processing, and management. Data Science uses tools, statistics, and machine learning to extract insights from such data. While Big Data provides the raw material, Data Science turns it into knowledge, predictions, and actionable strategies.
 
+### 8. What is Unstructured Data? Explain with example.
+### Answer:Unstructured data is information that does not follow a predefined format or structure. It includes text, images, audio, and videos, making it difficult to store in traditional databases. For example, customer reviews on e-commerce sites, tweets on Twitter, or medical imaging like X-rays. Data Science techniques like NLP and computer vision are used to analyze such data
 
 
