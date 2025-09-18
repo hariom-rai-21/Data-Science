@@ -57,5 +57,10 @@ These sources provide both structured and unstructured data that can be processe
 ### 16.Differentiate Data Mining and Data Science.
 ### Answer.Data Mining focuses on discovering hidden patterns, associations, and relationships in large datasets using algorithms. It is a subset of Data Science. Data Science, however, is broader—it includes data collection, cleaning, analysis, visualization, and machine learning to generate insights and predictions. While Data Mining extracts knowledge, Data Science applies it for solving real-world problems effectively.
 
+### 17.Explain about Computer Vision and its application in the real world.
+### Answer:Computer Vision is a field of AI that enables machines to interpret and understand visual data from images or videos. Applications include facial recognition in security, medical imaging for disease detection, autonomous vehicles for navigation, retail surveillance, and augmented reality. It uses deep learning and image processing to simulate human vision and provide accurate decision-making support.
+
+### 18.What is meant by transforming data in Data Science?
+### Answer:Transforming data means converting raw data into a more suitable format for analysis. It includes normalization, scaling, encoding categorical variables, and aggregating information. Transformation improves consistency, reduces complexity, and prepares data for machine learning algorithms. For example, converting text into numerical vectors in Natural Language Processing is a form of data transformation essential for analysis.
 
 
