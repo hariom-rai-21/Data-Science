@@ -33,4 +33,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 8. What is Unstructured Data? Explain with example.
 ### Answer:Unstructured data is information that does not follow a predefined format or structure. It includes text, images, audio, and videos, making it difficult to store in traditional databases. For example, customer reviews on e-commerce sites, tweets on Twitter, or medical imaging like X-rays. Data Science techniques like NLP and computer vision are used to analyze such data
 
+### 9. List out the advantages of web scraping.
+### Answer: Web scraping helps extract useful data from websites automatically. Its advantages include gathering real-time market trends, competitor analysis, lead generation, product pricing comparison, and research data collection. It saves time, reduces manual effort, and ensures large-scale data availability. Businesses use it to monitor markets, while researchers use it to collect datasets for analysis and experiments.
+
 
