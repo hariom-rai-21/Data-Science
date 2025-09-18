@@ -42,4 +42,7 @@ These sources provide both structured and unstructured data that can be processe
 ### 11. Distinguish between noise and outlier in Data Science.
 ### Answer:Noise refers to random errors or irrelevant data that obscure true patterns, like incorrect sensor readings. Outliers are data points that deviate significantly from the rest, such as a sudden sales spike during a festival. While noise is often removed, outliers may hold valuable information. Differentiating them is essential for accurate modeling and reliable predictions in Data Science.
 
+### 12. Describe Exploratory Data Analysis (EDA) and its role in Data Science.
+### Answer: Exploratory Data Analysis (EDA) involves summarizing data using visualization and statistics to understand its patterns, relationships, and anomalies. It helps detect missing values, correlations, and trends before building models. EDA plays a critical role in feature selection, hypothesis testing, and ensuring data quality. By providing insights, it guides analysts in choosing the right modeling techniques.
+
 
